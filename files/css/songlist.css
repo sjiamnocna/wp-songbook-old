@@ -1,0 +1,89 @@
+#opendialog{
+    display:block;
+    float:right; 
+    padding:5px 10px;
+    background:orange;
+}
+.songbook_songlist{
+    width:97%;
+    margin:5px auto;
+    border-spacing:0px;
+    border-collapse:collapse;
+}
+#authors .backtosongs{
+    display:block;
+    width:15%;
+    padding:15px;
+    border:1px solid;
+    border-radius:5px;
+    margin:20px auto;
+}
+#authors .sauthor{
+    display:block;
+    float:left;
+    padding:5px;
+    margin:3px 10px
+}
+#wpsongbook_list a.file{
+    float:left;
+    text-decoration:none;
+    border:none;
+}
+#wpsongbook_list a.file .video{
+    background:url(../img/video.ico) no-repeat;
+    background-size:100% 100%;
+}
+
+#wpsongbook_list a.file span{
+    display:block;
+    width:24px;
+    height:24px;
+    border:none;
+}
+
+label {
+    display: inline-block;
+    width: 5em;
+}
+.ui-tooltip {
+    padding: 5px 10px;
+    position: absolute;
+    z-index: 9999;
+    max-width: 300px;
+    font-size:95%;
+    background:white;
+    -webkit-box-shadow: 0 0 5px #aaa;
+    box-shadow: 0 0 5px #aaa;
+
+    -webkit-border-radius: 10px;
+    -webkit-border-top-right-radius: 2px;
+    -webkit-border-bottom-left-radius: 2px;
+    -moz-border-radius: 10px;
+    -moz-border-radius-topright: 2px;
+    -moz-border-radius-bottomleft: 2px;
+    border-radius: 10px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.songbook_songlist .thead{
+    font-size:120%;
+    font-weight:bold;
+    border-bottom:1px dashed darkred;
+    padding:10px;
+    margin:5px auto 10px;
+}
+.songbook_songlist tr{
+    height:26px;
+    margin:0px;
+}
+.songbook_songlist tr:hover{
+    background:rgba(239, 239, 239,0.5);
+}
+.songbook_songlist tr td{
+    padding:3px;
+    clear:left;
+}
+.songbook_songlist>tbody>tr>.songbook_songlist_onesong_info{
+    width:70%;
+}

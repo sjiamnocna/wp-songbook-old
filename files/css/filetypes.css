@@ -1,0 +1,177 @@
+/*
+Style for filetype icons
+*/
+    .file .trigp, #selicon .trigp{
+        background:url(../img/exticons_32/3gp.png) no-repeat;
+        background-size:100% 100%;
+    }
+    .file .sevenz, #selicon .sevenz{
+        background:url(../img/exticons_32/7z.png) no-repeat;
+        background-size:100% 100%;
+    }
+    .file .ae, #selicon .ae{
+        background:url(../img/exticons_32/ae.png) no-repeat;
+        background-size:100% 100%;
+    }
+    .file .ai, #selicon .ai{
+        background:url(../img/exticons_32/ai.png) no-repeat;
+        background-size:100% 100%;
+    }
+    .file .apk{
+        background:url(../img/exticons_32/apk.png) no-repeat;
+        background-size:100% 100%;
+    }
+    .file .asf{
+        background:url(../img/exticons_32/asf.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .avi , #selicon .avi{
+        background:url(../img/exticons_32/avi.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .bak{
+        background:url(../img/exticons_32/bak.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .bmp, #selicon .bmp{
+        background:url(../img/exticons_32/bmp.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .cdr{
+        background:url(../img/exticons_32/cdr.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .css{
+        background:url(../img/exticons_32/css.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .csv{
+        background:url(../img/exticons_32/csv.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .divx{
+        background:url(../img/exticons_32/divx.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .dll{
+        background:url(../img/exticons_32/dll.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .doc, #selicon .doc{
+        background:url(../img/exticons_32/doc.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .docx, #selicon .docx{
+        background:url(../img/exticons_32/docx.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .dw{
+        background:url(../img/exticons_32/dw.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .dwg{
+        background:url(../img/exticons_32/dwg.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .eps{
+        background:url(../img/exticons_32/eps.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .exe{
+        background:url(../img/exticons_32/exe.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .flv, #selicon .flv{
+        background:url(../img/exticons_32/flv.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .fw{
+        background:url(../img/exticons_32/fw.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .gif{
+        background:url(../img/exticons_32/gif.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .gz{
+        background:url(../img/exticons_32/gz.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .html, #selicon .html{
+        background:url(../img/exticons_32/html.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .ico{
+        background:url(../img/exticons_32/ico.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .iso{
+        background:url(../img/exticons_32/iso.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .jar{
+        background:url(../img/exticons_32/jar.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .jpg, #selicon .jpg{
+        background:url(../img/exticons_32/jpg.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .js{
+        background:url(../img/exticons_32/js.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .mov, #selicon .mov{
+        background:url(../img/exticons_32/mov.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .mp3, #selicon .mp3{
+        background:url(../img/exticons_32/mp3.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .mp4, #selicon .mp4{
+        background:url(../img/exticons_32/mp4.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .mpeg, #selicon .mpeg{
+        background:url(../img/exticons_32/mpeg.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .ogg, #selicon .ogg{
+        background:url(../img/exticons_32/ogg.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .pdf, #selicon .pdf{
+        background:url(../img/exticons_32/pdf.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .php{
+        background:url(../img/exticons_32/php.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .png{
+        background:url(../img/exticons_32/png.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .ppt, #selicon .ppt{
+        background:url(../img/exticons_32/ppt.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .ps{
+        background:url(../img/exticons_32/ps.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .psd{
+        background:url(../img/exticons_32/psd.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .rar, #selicon .rar{
+        background:url(../img/exticons_32/rar.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .svg{
+        background:url(../img/exticons_32/svg.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .swf{
+        background:url(../img/exticons_32/swf.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .sys{
+        background:url(../img/exticons_32/sys.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .tar{
+        background:url(../img/exticons_32/tar.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .tiff{
+        background:url(../img/exticons_32/tiff.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .txt, #selicon .txt{
+        background:url(../img/exticons_32/txt.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .wav, #selicon .wav{
+        background:url(../img/exticons_32/wav.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .zip, #selicon .zip{
+        background:url(../img/exticons_32/zip.png) no-repeat;        background-size:100% 100%;
+    }
+    
+    #selicon img.small{
+        width:30px;
+        height:30px;
+        float:left;
+    }
+    
+    .file .gdocs, #selicon .gdocs{
+        background:url(../img/gdocs.svg) no-repeat;        background-size:100% 100%;
+    }
+    .file .gdocs_doc, #selicon .gdocs_doc{
+        background:url(../img/exticons_32/gdocs_doc.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .gdocs_exc, #selicon .gdocs_exc{
+        background:url(../img/exticons_32/gdocs_exc.png) no-repeat;        background-size:100% 100%;
+    }
+    .file .gdocs_pwp, #selicon .gdocs_pwp{
+        background:url(../img/exticons_32/gdocs_pwp.png) no-repeat;        background-size:100% 100%;
+    }

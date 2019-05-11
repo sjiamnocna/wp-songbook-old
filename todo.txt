@@ -1,0 +1,18 @@
+wp song singular content
+- author, lang, genre, album, year...
+- video
+
+- disp_videolinkinsong - place
+
+groupby song type ['old','','new']
+
+metabox -- filter tabs list (/do_action(tabs))
+settings -- filter(pages); add_action('page','fieldhtml') replace{name=field} => sb[field] ^ fieldhtml(){!echo || return $html}
+
+
+
+Playlist, Sbwidget, SSwidget, Projection - Lightbox screen / New window (Playlist singular)
+
+Taxonomies - autocomplete (jQuery) => metabox
+
+Shortcode link (/quotation/filelist +- playlist songs list)
